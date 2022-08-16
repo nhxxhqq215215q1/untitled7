@@ -13,6 +13,7 @@ public class Gittets {
         System.out.println("4");
         System.out.println("master test");
         System.out.println("host test");
+        System.out.println("fuck you");
 
     }
 }
